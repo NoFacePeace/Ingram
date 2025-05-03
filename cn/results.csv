@@ -1,0 +1,9 @@
+47.116.186.139,8000,hikvision,admin,admin12345,hikvision-weak-password
+123.53.43.111,8001,dahua,admin,a+123110,cve-2021-33045
+139.170.232.86,80,dahua,admin,admin12345,dahua-weak-password
+139.170.232.86,80,dahua,admin,Qheic242,cve-2021-33044
+111.38.43.233,8003,dahua,admin,admin123,cve-2021-33044
+60.175.55.127,8002,dahua,admin,zcxx8888,cve-2021-33044
+211.139.247.67,8001,dahua,admin,admin123,cve-2021-33044
+112.6.234.94,8001,dahua,admin,sdsw@qd123,cve-2021-33044
+112.6.234.94,8001,dahua,admin,sdsw@qd123,cve-2021-33044
